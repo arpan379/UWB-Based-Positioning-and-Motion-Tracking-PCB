@@ -1,7 +1,7 @@
 # UWB-Based Positioning and Motion Tracking PCB
 
 <p align="center">
-  <img src="images/pcb_top.png" alt="PCB Top View" width="700"/>
+  <img src="Images/Front.png" alt="PCB Top View" width="700"/>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ The board includes a complete power management subsystem consisting of battery c
 
 | Top View | Bottom View |
 |----------|-------------|
-| ![](images/pcb_top.png) | ![](images/pcb_bottom.png) |
+| ![](Images/Front.png) | ![](Images/Back.png) |
 
 ---
 
